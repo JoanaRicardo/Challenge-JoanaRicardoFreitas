@@ -1,0 +1,2 @@
+Change the configuration for your DB in web.config
+<add name="connection" connectionString="server=****;uid=****;pwd=****;sslmode=None;database=****;persistsecurityinfo=True" />
